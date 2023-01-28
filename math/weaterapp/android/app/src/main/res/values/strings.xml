@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">weaterapp</string>
+<string name="facebook_app_id">550563733749695</string>
+<string name="fb_login_protocol_scheme">fb550563733749695</string>
+ <string name="facebook_client_token">d0dbd9b1c5c3126328a4933a5fea809b</string>
+</resources>
