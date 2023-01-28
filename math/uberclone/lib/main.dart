@@ -56,7 +56,7 @@ class MyHome extends StatelessWidget {
    
     children: [
         TileLayer(
-            urlTemplate: 'https://api.mapbox.com/styles/v1/subhanali7865/cld1epfrf000r01lrhw7tzsts/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoic3ViaGFuYWxpNzg2NSIsImEiOiJjbGMzYXRvYnowaDQ2M3BwcDV0cHI5eHk4In0._BPkCaHnLGBLtFoR3C4VeQ',
+            urlTemplate: 'https://api.mapbox.com/styles/v1/subhanali7865/cld1epfrf000r01lrhw7tzsts/tiles/256/{z}/{x}/{y}@2x?access_token='access_token',
             additionalOptions: {
               'accessToken':"pk.eyJ1Ijoic3ViaGFuYWxpNzg2NSIsImEiOiJjbGMzYXRvYnowaDQ2M3BwcDV0cHI5eHk4In0._BPkCaHnLGBLtFoR3C4VeQ",
               'id':'mapbox.mapbox-streets-v8'
